@@ -1,6 +1,7 @@
 {
     "TOKEN": "",
-    "ID": "",
-    "HASH": "",
-    "STRING": null
+    "ID": "21893504",
+    "HASH": "55312f2ea94f5e8d47febe4fdc93fa31",
+    "STRING":mongodb+srv://tudepremumyou:<db_SRVPJIKSH3NQFcd7>@arjun.nuvle.mongodb.net/?retryWrites=true&w=majority&appName=Arjun
+    
 }
